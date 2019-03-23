@@ -66,7 +66,7 @@ var sourcemaps = require('gulp-sourcemaps');
 
 
 // Set local URL if using Browser-Sync
-const LOCAL_URL = 'http://local.vs.dev.cc';
+const LOCAL_URL = 'http://local.vuesourcewp.dev.cc/';
 const SOURCE = {
 	scripts: [
 		// Place custom JS here, files will be concantonated, minified if ran with --production
