@@ -15,10 +15,6 @@
 get_header();
 ?>
 
-
-
-
-
 <div class="site-grid">
   <header class="mastheader-grid">main header</header>
   <h1 class="page-title-grid">page title</h1>
@@ -26,9 +22,6 @@ get_header();
   <aside class="sidebar-grid">sidebar</aside>
   <footer class="footer-grid">main footer</footer>
 </div>
-
-
-
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
